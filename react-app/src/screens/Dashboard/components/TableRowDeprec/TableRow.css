@@ -1,0 +1,43 @@
+tr {
+    vertical-align: top;
+    transition: background-color 0.1s linear, height 0.3s linear;
+    height: 0;
+}
+
+.dropdown-icon {
+    display: block;
+    transition: transform 0.3s;
+    text-align: center;
+}
+
+.dropdown-icon:hover {
+    cursor: pointer;
+}
+
+.dropdown-icon img {
+    vertical-align: middle;
+}
+
+.dropdown-icon-active {
+    transform: rotate(90deg);
+}
+
+.remove-button {
+    vertical-align: middle;
+}
+
+.remove-button:hover {
+    cursor: pointer;
+}
+
+.expanded {
+    height: 130px;
+}
+
+.more {
+    display: none;
+}
+
+.more .showing {
+    display: block;
+}

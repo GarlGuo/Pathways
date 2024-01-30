@@ -1,0 +1,37 @@
+{
+  "count": 8,
+  "courses": [
+      {
+          "course_name": "AAP3099",
+          "course_title": "Special Topics in AAP"
+      },
+      {
+          "course_name": "AAS1100",
+          "course_title": "Introduction to Asian American Studies"
+      },
+      {
+          "course_name": "AAS2042",
+          "course_title": "Jim Crow and Exclusion Era in America"
+      },
+      {
+          "course_name": "AAS3030",
+          "course_title": "Asians in the Americas: A Comparative Perspective"
+      },
+      {
+          "course_name": "AAS4950",
+          "course_title": "Independent Study"
+      },
+      {
+          "course_name": "AEM1200",
+          "course_title": "Introduction to Business Management"
+      },
+      {
+          "course_name": "AEM1500",
+          "course_title": "An Introduction to the Economics of Environmental and Natural Resources"
+      },
+      {
+          "course_name": "AEM1700",
+          "course_title": "Foundations of Leadership Development"
+      }
+  ]
+}

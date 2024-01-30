@@ -1,0 +1,107 @@
+.carousel-root {
+  width: 80%;
+  margin:auto;
+}
+
+/* .carouselImg {
+  width: 100px;
+} */
+
+.carousel .slide .carouselImg {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.carousel .slide .opening_quotes{
+  width: 140px; 
+  height: 90px;
+  float: left;
+}
+
+.carousel .slide .closing_quotes{
+  width: 90px;
+  height: 6 0px;
+  float: right;
+}
+
+.carousel .slide {
+  color: #333333;
+}
+
+.slide p {
+  width: 75%;
+  margin: auto;
+  text-align: left;
+  font-size: 28px;
+  font-weight: 400;
+  padding-top: 110px;
+  padding-bottom: 0px;
+}
+
+.carousel .selected {
+  border: none;
+}
+
+.persona {
+  width: 75%;
+  margin: auto;
+}
+
+.personaLabel {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin: auto;
+  padding-top: 40px;
+  align-items: center;
+}
+
+.personaText {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.personaText h3 {
+  font-weight: 700;
+  font-size: 29px;
+  margin-bottom: 0;
+}
+
+.personaText h4 {
+  font-weight: 400;
+  font-size: 22px;
+  margin-top: 0;
+}
+
+.thumbs-wrapper, .carousel-status {
+  display: none;
+}
+
+.carousel.carousel-slider .control-arrow:hover {
+  background: none;
+}
+
+.carousel .control-next.control-arrow:before {
+  content: '';
+  border: solid #333333;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 14px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.carousel .control-prev.control-arrow:before {
+  content: '';
+  border: solid #333333;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 14px;
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.control-dots {
+  visibility: hidden;
+}

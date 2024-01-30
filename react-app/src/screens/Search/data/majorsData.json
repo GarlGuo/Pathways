@@ -1,0 +1,410 @@
+[
+   {
+       "value": "Africana Studies",
+       "label": "Africana Studies"
+   },
+   {
+       "value": "Agricultural Engineering",
+       "label": "Agricultural Engineering"
+   },
+   {
+       "value": "Agricultural Science Education",
+       "label": "Agricultural Science Education"
+   },
+   {
+       "value": "Agricultural Sciences",
+       "label": "Agricultural Sciences"
+   },
+   {
+       "value": "American Studies",
+       "label": "American Studies"
+   },
+   {
+       "value": "Animal Science",
+       "label": "Animal Science"
+   },
+   {
+       "value": "Anthropology",
+       "label": "Anthropology"
+   },
+   {
+       "value": "Applied Economics and Mgmt",
+       "label": "Applied Economics and Mgmt"
+   },
+   {
+       "value": "Archaeology",
+       "label": "Archaeology"
+   },
+   {
+       "value": "Architecture",
+       "label": "Architecture"
+   },
+   {
+       "value": "Asian Studies",
+       "label": "Asian Studies"
+   },
+   {
+       "value": "Astronomy",
+       "label": "Astronomy"
+   },
+   {
+       "value": "Atmospheric Sciences",
+       "label": "Atmospheric Sciences"
+   },
+   {
+       "value": "Biological Eng Technology",
+       "label": "Biological Eng Technology"
+   },
+   {
+       "value": "Biological Engineering",
+       "label": "Biological Engineering"
+   },
+   {
+       "value": "Biological Sciences",
+       "label": "Biological Sciences"
+   },
+   {
+       "value": "Biology & Society",
+       "label": "Biology & Society"
+   },
+   {
+       "value": "Biomedical Engineering",
+       "label": "Biomedical Engineering"
+   },
+   {
+       "value": "Biometry & Statistics",
+       "label": "Biometry & Statistics"
+   },
+   {
+       "value": "Chemical Engineering",
+       "label": "Chemical Engineering"
+   },
+   {
+       "value": "Chemistry",
+       "label": "Chemistry"
+   },
+   {
+       "value": "China Asia-Pacific Studies",
+       "label": "China Asia-Pacific Studies"
+   },
+   {
+       "value": "Civil Engineering",
+       "label": "Civil Engineering"
+   },
+   {
+       "value": "Classics",
+       "label": "Classics"
+   },
+   {
+       "value": "College Scholar",
+       "label": "College Scholar"
+   },
+   {
+       "value": "Communication",
+       "label": "Communication"
+   },
+   {
+       "value": "Comparative Literature",
+       "label": "Comparative Literature"
+   },
+   {
+       "value": "Computer Science",
+       "label": "Computer Science"
+   },
+   {
+       "value": "Crop & Soil Sciences",
+       "label": "Crop & Soil Sciences"
+   },
+   {
+       "value": "Dance",
+       "label": "Dance"
+   },
+   {
+       "value": "Design & Environmental Analy",
+       "label": "Design & Environmental Analy"
+   },
+   {
+       "value": "Development Sociology",
+       "label": "Development Sociology"
+   },
+   {
+       "value": "Earth & Atmospheric Sciences",
+       "label": "Earth & Atmospheric Sciences"
+   },
+   {
+       "value": "Economics",
+       "label": "Economics"
+   },
+   {
+       "value": "Electrical and Computer Engr",
+       "label": "Electrical and Computer Engr"
+   },
+   {
+       "value": "Engineering Physics",
+       "label": "Engineering Physics"
+   },
+   {
+       "value": "English",
+       "label": "English"
+   },
+   {
+       "value": "Entomology",
+       "label": "Entomology"
+   },
+   {
+       "value": "Environmental Engineering",
+       "label": "Environmental Engineering"
+   },
+   {
+       "value": "Environmental Engr Technology",
+       "label": "Environmental Engr Technology"
+   },
+   {
+       "value": "Environmental Undecided",
+       "label": "Environmental Undecided"
+   },
+   {
+       "value": "Envr & Sustainability",
+       "label": "Envr & Sustainability"
+   },
+   {
+       "value": "Envr/Sustainability Sciences",
+       "label": "Envr/Sustainability Sciences"
+   },
+   {
+       "value": "Fashion Design and Management",
+       "label": "Fashion Design and Management"
+   },
+   {
+       "value": "Feminist,Gender,Sexuality Stds",
+       "label": "Feminist,Gender,Sexuality Stds"
+   },
+   {
+       "value": "Fiber Science",
+       "label": "Fiber Science"
+   },
+   {
+       "value": "Fiber Science & Apparel Design",
+       "label": "Fiber Science & Apparel Design"
+   },
+   {
+       "value": "Film",
+       "label": "Film"
+   },
+   {
+       "value": "Fine Arts",
+       "label": "Fine Arts"
+   },
+   {
+       "value": "Food Science",
+       "label": "Food Science"
+   },
+   {
+       "value": "French",
+       "label": "French"
+   },
+   {
+       "value": "Geological Sciences",
+       "label": "Geological Sciences"
+   },
+   {
+       "value": "German",
+       "label": "German"
+   },
+   {
+       "value": "German Studies",
+       "label": "German Studies"
+   },
+   {
+       "value": "Global and Public Health Sci",
+       "label": "Global and Public Health Sci"
+   },
+   {
+       "value": "Government",
+       "label": "Government"
+   },
+   {
+       "value": "Health Care Policy",
+       "label": "Health Care Policy"
+   },
+   {
+       "value": "History",
+       "label": "History"
+   },
+   {
+       "value": "History of Architecture",
+       "label": "History of Architecture"
+   },
+   {
+       "value": "History of Art",
+       "label": "History of Art"
+   },
+   {
+       "value": "Hotel Administration",
+       "label": "Hotel Administration"
+   },
+   {
+       "value": "Human Bio, Health, & Society",
+       "label": "Human Bio, Health, & Society"
+   },
+   {
+       "value": "Human Development",
+       "label": "Human Development"
+   },
+   {
+       "value": "Independent Major",
+       "label": "Independent Major"
+   },
+   {
+       "value": "Industrial and Labor Relations",
+       "label": "Industrial and Labor Relations"
+   },
+   {
+       "value": "Information Science",
+       "label": "Information Science"
+   },
+   {
+       "value": "Information Science Sys & Tech",
+       "label": "Information Science Sys & Tech"
+   },
+   {
+       "value": "Inter Agriculture & Rural Dev",
+       "label": "Inter Agriculture & Rural Dev"
+   },
+   {
+       "value": "Interdisciplinary Study in CALS",
+       "label": "Interdisciplinary Study in CALS"
+   },
+   {
+       "value": "International Agriculture",
+       "label": "International Agriculture"
+   },
+   {
+       "value": "Italian",
+       "label": "Italian"
+   },
+   {
+       "value": "Landscape Architecture",
+       "label": "Landscape Architecture"
+   },
+   {
+       "value": "Linguistics",
+       "label": "Linguistics"
+   },
+   {
+       "value": "Materials Science and Engr",
+       "label": "Materials Science and Engr"
+   },
+   {
+       "value": "Mathematics",
+       "label": "Mathematics"
+   },
+   {
+       "value": "Mechanical Engineering",
+       "label": "Mechanical Engineering"
+   },
+   {
+       "value": "Music",
+       "label": "Music"
+   },
+   {
+       "value": "Natural Resources",
+       "label": "Natural Resources"
+   },
+   {
+       "value": "Near Eastern Studies",
+       "label": "Near Eastern Studies"
+   },
+   {
+       "value": "Nutritional Sciences",
+       "label": "Nutritional Sciences"
+   },
+   {
+       "value": "Oper Research & Engineering",
+       "label": "Oper Research & Engineering"
+   },
+   {
+       "value": "Performing and Media Arts",
+       "label": "Performing and Media Arts"
+   },
+   {
+       "value": "Philosophy",
+       "label": "Philosophy"
+   },
+   {
+       "value": "Physics",
+       "label": "Physics"
+   },
+   {
+       "value": "Plant Sciences",
+       "label": "Plant Sciences"
+   },
+   {
+       "value": "Policy Analysis and Management",
+       "label": "Policy Analysis and Management"
+   },
+   {
+       "value": "Psychology",
+       "label": "Psychology"
+   },
+   {
+       "value": "Religious Studies",
+       "label": "Religious Studies"
+   },
+   {
+       "value": "Rural Sociology",
+       "label": "Rural Sociology"
+   },
+   {
+       "value": "Russian",
+       "label": "Russian"
+   },
+   {
+       "value": "Science & Technology Studies",
+       "label": "Science & Technology Studies"
+   },
+   {
+       "value": "Science of Earth Systems",
+       "label": "Science of Earth Systems"
+   },
+   {
+       "value": "Science of Nat & Envir Sys",
+       "label": "Science of Nat & Envir Sys"
+   },
+   {
+       "value": "Sociology",
+       "label": "Sociology"
+   },
+   {
+       "value": "Spanish",
+       "label": "Spanish"
+   },
+   {
+       "value": "Statistical Science",
+       "label": "Statistical Science"
+   },
+   {
+       "value": "Textiles & Apparel",
+       "label": "Textiles & Apparel"
+   },
+   {
+       "value": "Theatre Arts",
+       "label": "Theatre Arts"
+   },
+   {
+       "value": "Urban & Regional Studies",
+       "label": "Urban & Regional Studies"
+   },
+   {
+       "value": "Viticulture and Enology",
+       "label": "Viticulture and Enology"
+   },
+   {
+    "value": "Undecided",
+    "label": "Undecided"
+   },
+   {
+    "value": "Other",
+    "label": "Other"
+   }
+]

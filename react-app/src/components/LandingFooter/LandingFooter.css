@@ -1,0 +1,17 @@
+.footer {
+    background-color: #F1F1F1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer h4 {
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: right;
+    margin-right: 10px;
+}

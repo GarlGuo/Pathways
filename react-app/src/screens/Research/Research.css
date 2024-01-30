@@ -1,0 +1,67 @@
+.heading {
+    display: flex;
+    height: 324px;
+    padding: 48px 160px;
+}
+
+.heading div {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.heading .logo {
+    width: 376px;
+}
+
+.heading .bigImage {
+    flex: 1;
+}
+
+.heading h1 {
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 80px;
+    margin: 0;
+}
+
+.bubbles {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.bubble {
+    /* position: relative; */
+    padding: 25px 30px;
+    border-radius: 20px;
+    max-width: 900px;
+}
+
+.bubble p {
+    /* position: absolute;
+    top: 30px;
+    left: 30px;
+    right: 30px; */
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0;
+    text-align: justify;
+}
+
+.contributions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contributions p {
+    width: 1200px;
+    background: #F1F1F1;
+    border-radius: 10px;
+    padding: 26px 30px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}

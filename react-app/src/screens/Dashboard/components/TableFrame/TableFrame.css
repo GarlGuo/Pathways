@@ -1,0 +1,17 @@
+#tabs .tab {
+    display: inline;
+    margin-right: 49px;
+    font-weight: 500;
+    color: #5C5C5C;
+}
+
+#tabs .tab:hover {
+    cursor: pointer;
+}
+
+.active-tab {
+    color: #4F42B5 !important;
+    padding-bottom: 5px;
+    font-weight: 900;
+    border-bottom: 3px solid #4F42B5;
+}

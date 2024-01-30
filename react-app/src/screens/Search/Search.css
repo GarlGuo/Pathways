@@ -1,0 +1,181 @@
+* {
+  font-family: inherit;
+}
+
+.body-container {
+  padding: 50px 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.header-container {
+  text-align: center;
+}
+
+.react-select input {
+  font-size: 20px;
+}
+
+.load-text {
+  font-size: 15px;
+  font-weight: 500;
+  color: #1F9DC6;
+  cursor: pointer;
+  
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  user-select: none;
+}
+
+.next-step-button {
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+  background-color: #4F42B5;
+  border: none;
+  border-radius: 5px;
+  padding: 7.5px 20px;
+}
+
+.next-step-button:hover:not(:disabled) {
+  background-color: #1D4784;
+  cursor: pointer;
+}
+
+.next-step-button:disabled {
+  opacity: 0.6;
+}
+
+.search-button {
+  color: white;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #4F42B5;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 80px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #1D4784;
+}
+
+.search-ghost-button {
+  color: #4F42B5;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: transparent;
+  border: 1px solid #C9D7EA;
+  border-radius: 5px;
+  padding: 10px 80px;
+  cursor: pointer;
+}
+
+.search-ghost-button:hover {
+  background-color: #C9D7EA;
+}
+
+.question-container {
+  margin-top: 50px;
+}
+
+.question-container h3 {
+  font-size: 15px;
+}
+
+.disabled * {
+  opacity: 0.7;
+}
+
+.disabled h3 {
+  opacity: 0.5;
+}
+
+.input {
+  border: 1px solid #C9D7EA;
+  padding: 10px 15px;
+  border-radius: 100px;
+  width: 500px;
+  font-size: 16px;
+}
+
+.textarea-input {
+  border: 1px solid #C9D7EA;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+  height: 125px;
+  box-sizing: border-box;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.textarea-input:focus {
+  outline: none;
+}
+
+.interest-tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.interest-tag {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  border: 1px solid #4F42B5;
+  border-radius: 20px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+.interest-tag-text {
+  font-size: 16px;
+  color: #4F42B5;
+}
+
+.loop {
+  margin-left: 5px;
+  width: 20px;
+}
+
+.x {
+  margin-left: 10px;
+  width: 12px;
+  cursor: pointer;
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 15px;
+}
+
+.course {
+  border: 1px solid #404040;
+  padding: 15px;
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.course:hover {
+  background-color: #eee;
+}
+
+.course-selected {
+  border-color: #4F42B5;
+  background-color: #4f41b731;
+}
+
+.course-selected:hover {
+  background-color: #4f41b731;
+}

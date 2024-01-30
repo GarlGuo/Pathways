@@ -1,0 +1,34 @@
+#welcome-bar {
+    margin-left: 65px;
+    margin-top: 30px;
+}
+
+#welcome-text {
+    display: inline-block;
+    font-size: 45px;
+    font-weight: 900;
+    color: #4F42B5;
+    margin: 0;
+}
+
+#welcome-text span {
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 28px;
+}
+
+#new-search-btn-wrapper {
+    margin-left: 32px;
+    display: inline-block;
+}
+
+#new-search-btn {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    position: relative;
+    top: 14px;
+    left: 38.5px;
+}
